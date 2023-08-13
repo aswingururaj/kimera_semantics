@@ -191,8 +191,8 @@ W_6x_Window_Small,2,103,71,255,19
 W_ConnectSeam,2,103,71,255,19
 W_Pilar_Large,2,103,71,255,19
 W_Pilar_Small,2,103,71,255,19
-Water_Dispenser,154,38,91,255,18
 Water_DispenserMUG,154,38,91,255,18
+Water_Dispenser,154,38,91,255,18
 WaterSprinkler,32,32,32,255,0
 WaterSprinklerPipe_3x,32,32,32,255,0
 WaterSprinklerPipe_CornerRight,32,32,32,255,0

@@ -127,7 +127,7 @@
     <param name="semantic_label_2_color_csv_filepath"
       value="$(arg semantic_label_2_color_csv_filepath)"/>
 
-    <param name="publish_pointclouds"     value="false"/>
+    <param name="publish_pointclouds"     value="true"/>
     <param name="update_mesh_every_n_sec" value="1.0" />
     <param name="mesh_filename"           value="$(find kimera_semantics_ros)/mesh_results/$(anon tesse).ply" />
   </node>
